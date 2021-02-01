@@ -4,6 +4,8 @@
 
 This repo should contain all of the notes taken by [Molly](https://github.com/mollyet) for [Lighthouse Labs](https://www.lighthouselabs.ca) Web Development Bootcamp. Most of my notes are taken by hand, and this might be slow to update. 
 
+[Click Here for a nifty markdown cheatsheet!](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 ## Table of Contents
 * [Week One](/week_one)
   1. [Day One](/week_one/day_one)
